@@ -10,8 +10,8 @@
 
 |일시|챕터|질문 리스트|
 |--|--|--|
-|2023.10.4|Ch 4,5, 12, 13|[1주차 질문](https://github.com/prgrms-web-devcourse/FEDC5_JavaScript_deep_dive_study/blob/c63cbfd7eaba49112c3ddea485fb959b3a7dcb34/%EC%A7%88%EB%AC%B8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/1%EC%A3%BC%EC%B0%A8.md)|
-|2023.10.11|None||
+|2023.10.4|`Ch 4,5, 12, 13`|[1주차 질문](https://github.com/prgrms-web-devcourse/FEDC5_JavaScript_deep_dive_study/blob/c63cbfd7eaba49112c3ddea485fb959b3a7dcb34/%EC%A7%88%EB%AC%B8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/1%EC%A3%BC%EC%B0%A8.md)|
+|2023.10.11|`Ch 14, 15, 16, 19`||
 |2023.10.18|None||
 |2023.10.25|None||
 |2023.11.1|None||
