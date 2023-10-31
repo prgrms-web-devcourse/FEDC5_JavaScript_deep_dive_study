@@ -8,20 +8,20 @@
 2023.9.27 ~ 2023.12.20 (임시) 
 > 팀 교체가 11월 초에 있기에, 주차별 분량은 추후 변동 예정
 
-|일시|챕터|질문 리스트|
-|--|--|--|
-|2023.10.4|`Ch 4,5, 12, 13`|[1주차 질문](https://github.com/prgrms-web-devcourse/FEDC5_JavaScript_deep_dive_study/blob/c63cbfd7eaba49112c3ddea485fb959b3a7dcb34/%EC%A7%88%EB%AC%B8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/1%EC%A3%BC%EC%B0%A8.md)|
-|2023.10.11|`Ch 14, 15, 16, 19`|[2주차 질문](https://github.com/prgrms-web-devcourse/FEDC5_JavaScript_deep_dive_study/blob/2d5426bea9d29ae263eabd7785511790881dd821/%EC%A7%88%EB%AC%B8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/2%EC%A3%BC%EC%B0%A8.md)|
-|2023.10.19|`Ch 22. 23`|`undefined`|
-|2023.10.25|`Ch 24, 25`||
-|2023.11.1|`Ch 38, 40`||
-|2023.11.8|`Ch 45, 46`||
-|2023.11.15|None||
-|2023.11.22|None||
-|2023.11.29|None||
-|2023.12.6|None||
-|2023.12.13|None||
-|2023.12.20|None||
+|일시|챕터|질문 리스트|발표자|
+|--|--|--|--|
+|2023.10.4|`Ch 4,5, 12, 13`|[1주차 질문](https://github.com/prgrms-web-devcourse/FEDC5_JavaScript_deep_dive_study/blob/c63cbfd7eaba49112c3ddea485fb959b3a7dcb34/%EC%A7%88%EB%AC%B8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/1%EC%A3%BC%EC%B0%A8.md)|김나현|
+|2023.10.11|`Ch 14, 15, 16, 19`|[2주차 질문](https://github.com/prgrms-web-devcourse/FEDC5_JavaScript_deep_dive_study/blob/2d5426bea9d29ae263eabd7785511790881dd821/%EC%A7%88%EB%AC%B8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/2%EC%A3%BC%EC%B0%A8.md)|문휘식|
+|2023.10.19|`Ch 22. 23`|`undefined`|조재훈|
+|2023.10.25|`Ch 24, 25`|`undefined`|안현진|
+|2023.11.1|`Ch 38, 40`|`undefined`|최성민|
+|2023.11.8|`Ch 45, 46`|`undefined`||
+|2023.11.15|None|`undefined`||
+|2023.11.22|None|`undefined`||
+|2023.11.29|None|`undefined`||
+|2023.12.6|None|`undefined`||
+|2023.12.13|None|`undefined`||
+|2023.12.20|None|`undefined`||
 
 ## 스터디 방식 📝
 - 도서에서 각자 정해진 챕터 학습(모두 동일한 챕터를 학습)
