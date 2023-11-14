@@ -15,7 +15,7 @@
 |2023.10.19|`Ch 22. 23`|`undefined`|조재훈|
 |2023.10.25|`Ch 24, 25`|`undefined`|안현진|
 |2023.11.1|`Ch 38, 40`|`undefined`|최성민|
-|2023.11.8|`Ch 45, 46`|`undefined`||
+|2023.11.8|`Ch 45, 46`|`undefined`|모두같이|
 |2023.11.15|None|`undefined`||
 |2023.11.22|None|`undefined`||
 |2023.11.29|None|`undefined`||
